@@ -1,12 +1,12 @@
 /*
- Compile with `cc -O2 cpsrdec.c -o cpsrdec`
+ Compile with `cc -O2 cpsrinfo.c -o cpsrinfo`
 */
 
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
 
-#include "cpsrdec.h"
+#include "cpsrinfo.h"
 
 #define status_str(x) ((x) ? "enabled" : "disabled")
 #define set_str(x)    ((x) ? "set" : "clear")

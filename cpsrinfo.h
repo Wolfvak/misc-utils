@@ -1,5 +1,5 @@
-#ifndef CPSRDEC_H
-#define CPSRDEC_H
+#ifndef CPSRINFO_H
+#define CPSRINFO_H
 
 #define PMODE_USR  (0)
 #define PMODE_FIQ  (1)
